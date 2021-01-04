@@ -67,7 +67,7 @@ Para a utilização do file template,  você deve criar um arquivo e selecionar 
 - [ ] ViewModel factory
 - [ ] Network response wrapper
 - [ ] Activity (onCreate)[With Databinding]
-- [ ] Activity (onCreate)[Without Databinding]
+- [x] Activity (onCreate)[Without Databinding]
 - [ ] Fragment (onCreate)[With Databinding]
 - [ ] Fragment (onCreate)[Without Databinding]
 - [ ] Retrofit Instance
