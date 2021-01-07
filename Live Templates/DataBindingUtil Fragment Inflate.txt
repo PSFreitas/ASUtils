@@ -1,0 +1,9 @@
+return DataBindingUtil.inflate<$FragmentNameBinding$>(
+    inflater,
+    R.layout.$FragmentNameLayout$,
+    container,
+    false
+).let {
+    it.lifecycleOwner = viewLifecycleOwner
+    it.root
+}
