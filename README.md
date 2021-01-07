@@ -69,5 +69,5 @@ Para a utilização do file template,  você deve criar um arquivo e selecionar 
 - [ ] Activity (onCreate)[With Databinding]
 - [x] Activity (onCreate)[Without Databinding]
 - [ ] Fragment (onCreate)[With Databinding]
-- [ ] Fragment (onCreate)[Without Databinding]
+- [x] Fragment (onCreateView)[Without Databinding]
 - [ ] Retrofit Instance
