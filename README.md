@@ -62,12 +62,21 @@ Para a utilização do file template,  você deve criar um arquivo e selecionar 
 
 #### Templates a serem abordados
 
-- [ ] RecyclerView
-- [ ] Adapter
-- [ ] ViewModel factory
-- [ ] Network response wrapper
-- [ ] Activity (onCreate)[With Databinding]
-- [x] Activity (onCreate)[Without Databinding]
-- [ ] Fragment (onCreate)[With Databinding]
-- [x] Fragment (onCreateView)[Without Databinding]
-- [ ] Retrofit Instance
+##### File Templates
+
+- [x] Activity (onCreate)[Com Databinding]
+
+- [x] Fragment (onCreateView)[Sem Databinding]
+
+##### Live Templates
+
+- Databinding Utils
+  - [x] Activity 
+  - [ ] Fragment
+
+- Lists
+
+  - [ ] RecyclerView XML
+  - [ ] Adapter
+
+  
