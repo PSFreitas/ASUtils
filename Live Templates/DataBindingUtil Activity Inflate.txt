@@ -1,0 +1,1 @@
+DataBindingUtil.setContentView<$ActivityBindingName$>(this, R.layout.$ActivityLayoutName$)
