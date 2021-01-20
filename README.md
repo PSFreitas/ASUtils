@@ -73,10 +73,10 @@ Para a utilização do file template,  você deve criar um arquivo e selecionar 
 - Databinding Utils
   - [x] Activity 
   - [x] Fragment
-
 - Lists
 
   - [ ] RecyclerView XML
   - [ ] Adapter
 
-  
+- XML
+  - [x] Component constraints

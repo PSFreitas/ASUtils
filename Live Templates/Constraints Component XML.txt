@@ -1,0 +1,4 @@
+app:layout_constraintBottom_toBottomOf="$bottomConstraint$"
+app:layout_constraintEnd_toEndOf="$endConstraint$"
+app:layout_constraintStart_toStartOf="$startConstraint$"
+app:layout_constraintTop_toTopOf="$topConstraint$"
