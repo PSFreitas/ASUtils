@@ -72,7 +72,7 @@ Para a utilização do file template,  você deve criar um arquivo e selecionar 
 
 - Databinding Utils
   - [x] Activity 
-  - [ ] Fragment
+  - [x] Fragment
 
 - Lists
 
